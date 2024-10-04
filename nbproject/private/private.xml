@@ -3,16 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/sahil/Documents/NetBeansProjects/ProyectoAlgCalc/src/proyectoalgcalc/Calc/Integrals.java</file>
-            <file>file:/C:/Users/sahil/Documents/NetBeansProjects/ProyectoAlgCalc/src/proyectoalgcalc/Calc/ConstantPart.java</file>
-            <file>file:/C:/Users/sahil/Documents/NetBeansProjects/ProyectoAlgCalc/src/proyectoalgcalc/Calc/Postfix.java</file>
-            <file>file:/C:/Users/sahil/Documents/NetBeansProjects/ProyectoAlgCalc/src/proyectoalgcalc/Calc/ComplexPart.java</file>
-            <file>file:/C:/Users/sahil/Documents/NetBeansProjects/ProyectoAlgCalc/src/proyectoalgcalc/Calc/Calculation.java</file>
-            <file>file:/C:/Users/sahil/Documents/NetBeansProjects/ProyectoAlgCalc/src/proyectoalgcalc/Calc/varPart.java</file>
-            <file>file:/C:/Users/sahil/Documents/NetBeansProjects/ProyectoAlgCalc/src/proyectoalgcalc/Calc/IntegrationManager.java</file>
-            <file>file:/C:/Users/sahil/Documents/NetBeansProjects/ProyectoAlgCalc/src/proyectoalgcalc/Calc/IntegrateSimple.java</file>
-            <file>file:/C:/Users/sahil/Documents/NetBeansProjects/ProyectoAlgCalc/src/proyectoalgcalc/Calc/TermSeperatorAndCalculator.java</file>
-            <file>file:/C:/Users/sahil/Documents/NetBeansProjects/ProyectoAlgCalc/src/proyectoalgcalc/Calc/Part_var_const.java</file>
+            <file>file:/C:/Users/sahil/Documents/NetBeansProjects/ProyectoAlgCalc/src/proyectoalgcalc/MainFrame.java</file>
+            <file>file:/C:/Users/sahil/Documents/NetBeansProjects/ProyectoAlgCalc/src/proyectoalgcalc/Home.java</file>
             <file>file:/C:/Users/sahil/Documents/NetBeansProjects/ProyectoAlgCalc/src/proyectoalgcalc/ProyectoAlgCalc.java</file>
         </group>
     </open-files>
